@@ -1,5 +1,9 @@
-## Hi there 👋
-🌱 I’m currently learning ...
+### Hi there 👋 Pleasure to have you visit me 
+🌱 I’m currently learning and need all the mentorship I can get, please be kind and patient with me
+🤔 I’m looking for help with skills to become a cloud **Azure cloud engineer**
+
+Yours truly 
+***The original wastey pants super tramp!*** Ok not reallyyy 🛰️
 <!--
 **Crombuttons/Crombuttons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
