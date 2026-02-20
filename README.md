@@ -1,6 +1,6 @@
 ### Hi there 👋 Pleasure to have you visit me 
 🌱 I’m currently learning and need all the mentorship I can get, please be kind and patient with me
-🤔 I’m looking for help with skills to become a cloud **Azure cloud engineer**
+🤔 I’m looking for help with skills to become a cloud **Azure cloud engineer** It's so fun learningcloud technologies!
 
 Yours truly 
 ***The original wastey pants super tramp!*** 🛰️
