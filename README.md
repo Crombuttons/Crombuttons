@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joshua (aka Crombuttons)</h1>
 <h3 align="center">A passionate Azure engineer in training</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crombuttons&label=Profile%20views&color=0e75b6&style=flat" alt="crombuttons" /> </p>
+
+
 
 - 🔭 I’m currently working on **A jump server for administrative access in a secured subnet with restricted RDP access**
 
